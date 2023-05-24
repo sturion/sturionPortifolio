@@ -9,7 +9,7 @@ function App() {
     <PageContainer>
       <LogoContainer>
         <img src={logo} className="logo" alt="Vite logo" />
-        <h1>ouglas Sturion</h1>
+        <h1>ouglasSturion</h1>
       </LogoContainer>
       <CardContainer>
       <LinkA href="https://sturion.github.io/CovidPiracicaba/" target="_blank">
